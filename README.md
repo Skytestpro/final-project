@@ -7,7 +7,7 @@ classes_ui.py - классы ui-тестов
 test_api.py - api-тесты  
 test_ui.py - ui-тесты  
   
-**Cookie в classes_api.py** 
+**Cookie в classes_api.py**  
 Перед запуском api-тестов нужно заполнить словарь cookie в методе cookie  
 Для того, чтобы найти нужное значение, необходимо перейти на [сайт](https://market-delivery.yandex.ru/retail/paterocka/catalog/1033?placeSlug=pyatyorochka_pvtm6) и скопировать значение Cookie из Request Headers. **Авторизовываться не нужно**  
   
